@@ -1,3 +1,8 @@
+#Webの基礎を学びながらReact Hooksでポートフォリオサイトを作ろう -Techpit　を参考にして作成しました。
+
+タガミショウゴさんありがとうございました。
+https://www.techpit.jp/courses/194
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
