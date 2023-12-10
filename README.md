@@ -3,6 +3,10 @@
 タガミショウゴさんありがとうございました。
 https://www.techpit.jp/courses/194
 
+現ポートフォリオのURLです。netlifyを活用してデプロイしています。
+
+https://main--effervescent-pothos-11fdc6.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
