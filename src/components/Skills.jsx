@@ -3,7 +3,7 @@ import "react-circular-progressbar/dist/styles.css";
 import { useSkills } from '../customHooks/useSkills';
 import { requestStates } from '../constants';
 export const Skills = () => {
-  const [sortedLanguageList, fetchRequestState, converseCountToPercentage] = useSkills();
+  const [sortedLanguageList, fetchRequestState] = useSkills();
   
 
   
